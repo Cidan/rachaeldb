@@ -22,6 +22,7 @@ func main() {
 	setupLogging()
 	viper.SetDefault("service.port", 5309)
 	viper.SetDefault("service.rest", 8080)
+	viper.BindEnv("service.rest", "PORT")
 
 	api := pb.New()
 	go startGrpc(api)

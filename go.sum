@@ -178,12 +178,6 @@ github.com/xdg/stringprep v1.0.0/go.mod h1:Jhud4/sHMO4oL310DaZAKk9ZaJ08SJfe+sJh0
 github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/zenazn/goji v0.9.0/go.mod h1:7S9M489iMyHBNxwZnk9/EHS098H4/F6TATF2mIxtB1Q=
-gitlab.com/evemeta/config v0.0.0-20190618212853-92e68a454993 h1:P+PSokiKkkwECsEd978dKL8GY58AyQWZT1XrPKYMnEY=
-gitlab.com/evemeta/config v0.0.0-20190618212853-92e68a454993/go.mod h1:pSGLDiDywfZ4ediB70/HBmmDeCp6qTmnBCunVFp6E1g=
-gitlab.com/evemeta/el v0.0.0-20190617152448-229d39ff11d0 h1:kCtWNte2JcCd3Yx0uTus7isrTM9lzbQif56ZHr6Yc8s=
-gitlab.com/evemeta/el v0.0.0-20190617152448-229d39ff11d0/go.mod h1:tqB7q+3dpGCdgJUOx08jTuk6LYjYIJ83z1vwZjmrWzk=
-gitlab.com/evemeta/mill v0.0.0-20190623230917-bdf2e76668ce h1:cxjOiWXRrdoNuDitw7ALiEjiBFpFmt6lSfy5Gqr1y3s=
-gitlab.com/evemeta/mill v0.0.0-20190623230917-bdf2e76668ce/go.mod h1:IlNh4/dhkqdjzq6hnAZk/utgjpmZBMvD8JiHoOefDhQ=
 go.etcd.io/bbolt v1.3.2/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
 go.opencensus.io v0.21.0/go.mod h1:mSImk1erAIZhrmZN+AvHh14ztQfjbGwt4TtuofqLduU=
 go.opencensus.io v0.22.0 h1:C9hSCOW830chIVkdja34wa6Ky+IzWllkUinR+BtRZd4=
@@ -226,6 +220,7 @@ golang.org/x/net v0.0.0-20190213061140-3a22650c66bd/go.mod h1:mL1N/T3taQHkDXs73r
 golang.org/x/net v0.0.0-20190311183353-d8887717615a/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/net v0.0.0-20190501004415-9ce7a6920f09/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
+golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c h1:uOCk1iQW6Vc18bnC13MfzScl+wdKBmM9Y9kU7Z83/lw=
 golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/net v0.0.0-20190522155817-f3200d17e092 h1:4QSRKanuywn15aTZvI/mIDEgPQpswuFndXpOj3rKEco=
 golang.org/x/net v0.0.0-20190522155817-f3200d17e092/go.mod h1:HSz+uSET+XFnRR8LxR5pz3Of3rY3CfYBVs4xY44aLks=
