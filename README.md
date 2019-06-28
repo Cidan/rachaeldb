@@ -1,6 +1,6 @@
 # RachaelDB
 
-A simple, powerful, and sassy in memory rink store written in Golang.
+A simple, powerful, and sassy rink store written in Golang.
 
 ## Compiling
 
