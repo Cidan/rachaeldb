@@ -1,0 +1,2 @@
+/api/**/api_descriptor.pb
+/api/**/v1.pb*.go
